@@ -1,4 +1,4 @@
-#README file.
+README file.
 
 This project had been designed to showcase my coding skills in python when it comes to working an ETL process.
 The ETL I have designed uses SQLite as its database and the Weather API as its datasource.
